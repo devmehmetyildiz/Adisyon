@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth", "Auth\Auth.csproj", "{99757840-7607-4FF8-A5E8-E9E577D01248}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth", "Auth\Auth.csproj", "{99757840-7607-4FF8-A5E8-E9E577D01248}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Userrole", "Userrole\Userrole.csproj", "{5C8A795B-4F47-408E-9797-3035FB777E0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Userrole", "Userrole\Userrole.csproj", "{5C8A795B-4F47-408E-9797-3035FB777E0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse", "Warehouse\Warehouse.csproj", "{20364974-B90F-420A-A22C-55427D3E6BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warehouse", "Warehouse\Warehouse.csproj", "{20364974-B90F-420A-A22C-55427D3E6BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{D6498D72-1707-4B1A-940A-4D8B6DB4CE37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{D6498D72-1707-4B1A-940A-4D8B6DB4CE37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway", "Gateway\Gateway.csproj", "{FE753EF5-6216-4810-9D14-A9888CEA1FD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gateway", "Gateway\Gateway.csproj", "{FE753EF5-6216-4810-9D14-A9888CEA1FD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment", "Payment\Payment.csproj", "{19341C0C-2110-4AB6-99A9-84D8A0B572FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Payment", "Payment\Payment.csproj", "{19341C0C-2110-4AB6-99A9-84D8A0B572FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desktop", "Desktop\Desktop.csproj", "{873BAC4F-9F18-4D52-8C34-D5422256A204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desktop", "Desktop\Desktop.csproj", "{873BAC4F-9F18-4D52-8C34-D5422256A204}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
