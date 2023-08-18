@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Auth.Controllers
@@ -10,6 +11,11 @@ namespace Auth.Controllers
         public OauthController()
         {
             
+        }
+
+        public async Task<IActionResult> Test()
+        {
+            return Ok();
         }
     }
 }
